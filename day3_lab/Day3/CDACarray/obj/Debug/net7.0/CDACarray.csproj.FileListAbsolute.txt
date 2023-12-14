@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\bin\Debug\net7.0\CDACarray.exe
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\bin\Debug\net7.0\CDACarray.deps.json
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\bin\Debug\net7.0\CDACarray.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\bin\Debug\net7.0\CDACarray.dll
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\bin\Debug\net7.0\CDACarray.pdb
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\obj\Debug\net7.0\CDACarray.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\obj\Debug\net7.0\CDACarray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\obj\Debug\net7.0\CDACarray.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\obj\Debug\net7.0\CDACarray.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\obj\Debug\net7.0\CDACarray.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\obj\Debug\net7.0\CDACarray.dll
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\obj\Debug\net7.0\refint\CDACarray.dll
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\obj\Debug\net7.0\CDACarray.pdb
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\obj\Debug\net7.0\CDACarray.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day3\CDACarray\obj\Debug\net7.0\ref\CDACarray.dll

@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\obj\Debug\net7.0\StringExtension.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\obj\Debug\net7.0\StringExtension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\obj\Debug\net7.0\StringExtension.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\obj\Debug\net7.0\StringExtension.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\obj\Debug\net7.0\StringExtension.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\bin\Debug\net7.0\StringExtension.exe
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\bin\Debug\net7.0\StringExtension.deps.json
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\bin\Debug\net7.0\StringExtension.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\bin\Debug\net7.0\StringExtension.dll
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\bin\Debug\net7.0\StringExtension.pdb
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\obj\Debug\net7.0\StringExtension.dll
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\obj\Debug\net7.0\refint\StringExtension.dll
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\obj\Debug\net7.0\StringExtension.pdb
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\obj\Debug\net7.0\StringExtension.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Desktop\vishal_vishwjeet\c# .Net\Day6_lab\StringExtension\obj\Debug\net7.0\ref\StringExtension.dll

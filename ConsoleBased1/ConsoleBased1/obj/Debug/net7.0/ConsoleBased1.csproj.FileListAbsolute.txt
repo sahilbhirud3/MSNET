@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\bin\Debug\net7.0\ConsoleBased1.exe
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\bin\Debug\net7.0\ConsoleBased1.deps.json
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\bin\Debug\net7.0\ConsoleBased1.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\bin\Debug\net7.0\ConsoleBased1.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\bin\Debug\net7.0\ConsoleBased1.pdb
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\obj\Debug\net7.0\ConsoleBased1.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\obj\Debug\net7.0\ConsoleBased1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\obj\Debug\net7.0\ConsoleBased1.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\obj\Debug\net7.0\ConsoleBased1.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\obj\Debug\net7.0\ConsoleBased1.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\obj\Debug\net7.0\ConsoleBased1.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\obj\Debug\net7.0\refint\ConsoleBased1.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\obj\Debug\net7.0\ConsoleBased1.pdb
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\obj\Debug\net7.0\ConsoleBased1.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\ConsoleBased1\ConsoleBased1\obj\Debug\net7.0\ref\ConsoleBased1.dll

@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\bin\x64\Debug\net7.0\Demo.exe
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\bin\x64\Debug\net7.0\Demo.deps.json
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\bin\x64\Debug\net7.0\Demo.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\bin\x64\Debug\net7.0\Demo.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\bin\x64\Debug\net7.0\Demo.pdb
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\obj\x64\Debug\net7.0\Demo.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\obj\x64\Debug\net7.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\obj\x64\Debug\net7.0\Demo.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\obj\x64\Debug\net7.0\Demo.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\obj\x64\Debug\net7.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\obj\x64\Debug\net7.0\Demo.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\obj\x64\Debug\net7.0\refint\Demo.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\obj\x64\Debug\net7.0\Demo.pdb
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\obj\x64\Debug\net7.0\Demo.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Demo\obj\x64\Debug\net7.0\ref\Demo.dll

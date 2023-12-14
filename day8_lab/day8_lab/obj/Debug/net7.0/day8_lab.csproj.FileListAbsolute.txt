@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\bin\Debug\net7.0\day8_lab.exe
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\bin\Debug\net7.0\day8_lab.deps.json
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\bin\Debug\net7.0\day8_lab.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\bin\Debug\net7.0\day8_lab.dll
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\bin\Debug\net7.0\day8_lab.pdb
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\obj\Debug\net7.0\day8_lab.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\obj\Debug\net7.0\day8_lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\obj\Debug\net7.0\day8_lab.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\obj\Debug\net7.0\day8_lab.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\obj\Debug\net7.0\day8_lab.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\obj\Debug\net7.0\day8_lab.dll
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\obj\Debug\net7.0\refint\day8_lab.dll
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\obj\Debug\net7.0\day8_lab.pdb
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\obj\Debug\net7.0\day8_lab.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Desktop\Vishal_Vishwjeet\c# .Net\day8_lab\day8_lab\obj\Debug\net7.0\ref\day8_lab.dll

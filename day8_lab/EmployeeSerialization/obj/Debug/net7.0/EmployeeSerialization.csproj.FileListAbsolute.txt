@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\bin\Debug\net7.0\EmployeeSerialization.exe
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\bin\Debug\net7.0\EmployeeSerialization.deps.json
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\bin\Debug\net7.0\EmployeeSerialization.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\bin\Debug\net7.0\EmployeeSerialization.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\bin\Debug\net7.0\EmployeeSerialization.pdb
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\obj\Debug\net7.0\EmployeeSerialization.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\obj\Debug\net7.0\EmployeeSerialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\obj\Debug\net7.0\EmployeeSerialization.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\obj\Debug\net7.0\EmployeeSerialization.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\obj\Debug\net7.0\EmployeeSerialization.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\obj\Debug\net7.0\EmployeeSerialization.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\obj\Debug\net7.0\refint\EmployeeSerialization.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\obj\Debug\net7.0\EmployeeSerialization.pdb
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\obj\Debug\net7.0\EmployeeSerialization.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\day8_lab\EmployeeSerialization\obj\Debug\net7.0\ref\EmployeeSerialization.dll

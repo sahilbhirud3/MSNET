@@ -1,0 +1,15 @@
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\bin\Debug\net7.0\EmployeeC.exe
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\bin\Debug\net7.0\EmployeeC.deps.json
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\bin\Debug\net7.0\EmployeeC.runtimeconfig.json
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\bin\Debug\net7.0\EmployeeC.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\bin\Debug\net7.0\EmployeeC.pdb
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\obj\Debug\net7.0\EmployeeC.csproj.AssemblyReference.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\obj\Debug\net7.0\EmployeeC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\obj\Debug\net7.0\EmployeeC.AssemblyInfoInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\obj\Debug\net7.0\EmployeeC.AssemblyInfo.cs
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\obj\Debug\net7.0\EmployeeC.csproj.CoreCompileInputs.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\obj\Debug\net7.0\EmployeeC.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\obj\Debug\net7.0\refint\EmployeeC.dll
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\obj\Debug\net7.0\EmployeeC.pdb
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\obj\Debug\net7.0\EmployeeC.genruntimeconfig.cache
+C:\Users\dac.STUDENTSDC\Desktop\sahil_amar\MSNET\Day2_Lab\Employee - Copy\obj\Debug\net7.0\ref\EmployeeC.dll
